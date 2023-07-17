@@ -11,5 +11,9 @@ public class Main {
         Xeon.size="-32432km";
         Xeon.temp="-344449843 celcius";
 
+        Planet2 Feon=new Planet2();
+        Feon.name="expo";
+        Feon.color="whie";
+        Feon.size="1234billion km";
     }
 }
