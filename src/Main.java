@@ -6,10 +6,15 @@ public class Main {
         Omnax.Star ="1";
         Omnax.Planets ="4";
 
-        FeatureSUn Xeon=new FeatureSUn();
+        FeatureSun Xeon=new FeatureSun();
         Xeon.Name="treo";
         Xeon.size="-32432km";
         Xeon.temp="-344449843 celcius";
 
+        Planet1 xeon= new Planet1();
+        xeon.name="reon";
+        xeon.color="pink";
+        xeon.temp="-45celcius";
+        xeon.size="1cm";
     }
 }
