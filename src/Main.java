@@ -9,7 +9,13 @@ public class Main {
         FeatureSUn Xeon=new FeatureSUn();
         Xeon.Name="treo";
         Xeon.size="-32432km";
-        Xeon.temp="-344449843 celcius";
+        Xeon.temp="-343 celcius";
+
+        Planet3 Aeon = new Planet3();
+        Aeon.Name="exo";
+        Aeon.size="123Billion";
+        Aeon.temp="44 cel";
+
 
     }
 }
